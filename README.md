@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nico-maestro (PhD in Environemental Geography)
+- 👋 Hi, I’m @nico-maestro (PhD in Environmental Geography)
 - 👀 I’m interested in human induced land-use and land-cover changes (deforestation dynamics), animal ethics, perception-based mapping
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting projects :)
